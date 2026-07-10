@@ -1,0 +1,2 @@
+# 本脚本仅使用 Python 标准库（urllib, json 等），无需额外依赖。
+# DeepSeek API 通过原生 HTTP 请求调用，兼容 OpenAI 格式。

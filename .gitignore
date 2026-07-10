@@ -1,0 +1,23 @@
+# 敏感信息
+.env
+*.key
+secrets.txt
+
+# GitHub CLI 便携版（本地工具，不提交）
+bin/
+gh.zip
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# WorkBuddy 本地配置
+.workbuddy/
+
+# 系统文件
+nul
+.DS_Store
+Thumbs.db
+
+# 本地测试产物
+*.log
